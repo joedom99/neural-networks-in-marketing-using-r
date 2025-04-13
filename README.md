@@ -7,9 +7,9 @@ This repository contains a hands-on example of using a neural network to predict
 ![Made%20With](https://img.shields.io/badge/Made%20with-RStudio-blue?logo=rstudio)
 ![Project Type](https://img.shields.io/badge/type-Tutorial%20Project-lightgrey)
 
-> 🔗 This project supports the blog post:  
-> **[Using Neural Networks in Marketing: A Hands-On R Example](#)**  
-> *(Add link when published)*
+> 🔗 This project supports the following blog post:
+> Marketing with Neural Networks: What They Are and How to Use Them
+> https://blog.marketingdatascience.ai/marketing-with-neural-networks-what-they-are-and-how-to-use-them-3e0114771c40
 
 ---
 
